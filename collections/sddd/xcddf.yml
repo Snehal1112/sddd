@@ -1,0 +1,6 @@
+info:
+  name: xcddf
+  type: http
+http:
+  method: GET
+  url: ''
