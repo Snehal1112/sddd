@@ -3,7 +3,7 @@ info:
   type: http
 http:
   method: GET
-  url: https://jsonplaceholder.typicode.com/posts/1?hhu=
+  url: https://jsonplaceholder.typicode.com/posts/1?hhuzxczxczxczxczxc=
   body:
     type: json
     data: |-
