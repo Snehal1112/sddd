@@ -1,0 +1,6 @@
+info:
+  name: typp-branch
+  type: http
+http:
+  method: GET
+  url: ''
