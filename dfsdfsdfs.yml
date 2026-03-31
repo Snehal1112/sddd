@@ -1,0 +1,6 @@
+info:
+  name: dfsdfsdfs
+  type: http
+http:
+  method: GET
+  url: ''
