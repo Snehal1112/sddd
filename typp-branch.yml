@@ -3,4 +3,10 @@ info:
   type: http
 http:
   method: GET
-  url: sdfsdfsdfsdf
+  url: sdfsdfsdfsdfasdadasdads?asdasda=asdasdasdasd
+  body:
+    type: json
+    data: |-
+      {
+        "asdasd":"ASdasdasdasd"
+      }
