@@ -1,0 +1,14 @@
+name: assss
+variables:
+- key: sdd
+  value: sddd
+  enabled: true
+  secret: false
+- key: dfff
+  value: dfffff
+  enabled: true
+  secret: false
+- key: baseurl
+  value: https://jsonplaceholder.typicode.com/posts/1
+  enabled: true
+  secret: false

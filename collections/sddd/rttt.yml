@@ -1,0 +1,9 @@
+info:
+  name: rttt
+  type: http
+http:
+  method: GET
+  url: ''
+  body:
+    type: json
+    data: ''

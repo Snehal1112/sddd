@@ -1,0 +1,9 @@
+info:
+  name: xcddf
+  type: http
+http:
+  method: GET
+  url: https://google.com
+  body:
+    type: json
+    data: ''

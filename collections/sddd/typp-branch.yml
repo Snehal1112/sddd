@@ -1,0 +1,12 @@
+info:
+  name: typp-branch
+  type: http
+http:
+  method: GET
+  url: sdfsdfsdfsdfasdadasdads?asdasda=asdasdasdasd
+  body:
+    type: json
+    data: |-
+      {
+        "asdasd":"ASdasdasdasd"
+      }
