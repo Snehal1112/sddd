@@ -1,0 +1,6 @@
+info:
+  name: snehal
+  type: http
+http:
+  method: GET
+  url: ''

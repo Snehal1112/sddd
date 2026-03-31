@@ -1,9 +1,9 @@
 info:
-  name: xcddf
+  name: rttt
   type: http
 http:
   method: GET
-  url: https://google.com/sdddd
+  url: sdasdddd
   body:
     type: json
     data: ''
