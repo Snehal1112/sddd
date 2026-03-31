@@ -1,0 +1,12 @@
+info:
+  name: t2
+  type: http
+http:
+  method: GET
+  url: https://jsonplaceholder.typicode.com/posts/1?hhu=
+  body:
+    type: json
+    data: |-
+      {
+        "$schema": "Sd"
+      }
