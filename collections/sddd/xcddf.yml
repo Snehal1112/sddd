@@ -3,7 +3,7 @@ info:
   type: http
 http:
   method: GET
-  url: https://google.com/sdddd
+  url: https://google.comasdasasdasd
   body:
     type: json
     data: ''

@@ -3,7 +3,7 @@ info:
   type: http
 http:
   method: GET
-  url: sdasdddd
+  url: ''
   body:
     type: json
     data: ''
